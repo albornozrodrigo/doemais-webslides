@@ -1,11 +1,3 @@
-/*!
- * Name: WebSlides
- * Version: 1.5.0
- * Date: 2018-01-01
- * Description: Making HTML presentations easy
- * URL: https://github.com/webslides/webslides#readme
- * Credits: @jlantunez, @LuisSacristan, @Belelros
- */
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};

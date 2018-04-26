@@ -3053,7 +3053,7 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
 /* -- Disable elastic scrolling/bounce:
 webslides.js will add .ws-ready automatically. Don't worry :) -- */
 body {
-  background-color: #f7f9fb;
+  background-color: #fff;
   color: #333; }
 
 :focus {
@@ -3094,7 +3094,7 @@ hr:after {
 
 abbr,
 acronym {
-  border-bottom: 1px dotted #f7f9fb; }
+  border-bottom: 1px dotted #fff; }
 
 mark,
 ins {
@@ -3787,3 +3787,9 @@ Slides Index
 
 .text-intro {
   font-size: 18px; }
+
+.img-responsive {
+  height: auto;
+  margin: 0 auto;
+  max-width: 1024px;
+  width: 100%; }
